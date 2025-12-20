@@ -245,4 +245,4 @@ This project is developed for academic purposes as part of the Intelligent Progr
 
 ---
 
-**✨ Developed with ❤️ by Ola, Jana, and Maram**
+**Developed  by Ola, Jana, and Maram**
